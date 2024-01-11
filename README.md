@@ -1,4 +1,4 @@
-# Real-state
+# Real-Estate
 
 
 A real estate website developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack is a powerful and scalable solution for showcasing properties, facilitating property searches, and managing real estate transactions. Here's a description of the key features and components you might find in a MERN stack real estate website
